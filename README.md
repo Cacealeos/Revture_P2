@@ -5,8 +5,11 @@ application.properties file must be added with driver and RDS DB credentials
 #####
 
 spring.datasource.driver-""
+#####
 spring.datasource.url=jdbc:postgresql://""
+#####
 spring.datasource.username=""
+#####
 spring.datasource.password=""
 
 #####
